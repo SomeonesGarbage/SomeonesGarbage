@@ -8,5 +8,7 @@
 - Javascript
 - Python
 
-## Socials and website:
-### [Website](https://someonesgarbage.github.io "Also on github!").
+### Code editor
+-Intelj
+-VS Code
+-pycharm
