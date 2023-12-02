@@ -9,6 +9,6 @@
 - Python
 
 ### Code editor
--Intelj
--VS Code
--pycharm
+- Intelj
+- VS Code
+- pycharm
