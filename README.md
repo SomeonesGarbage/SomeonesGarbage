@@ -7,8 +7,3 @@
 - CSS
 - Javascript
 - Python
-
-### Code editor
-- Intelj
-- VS Code
-- pycharm
